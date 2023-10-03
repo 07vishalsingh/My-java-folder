@@ -1,0 +1,329 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FunctionExample",
+            "request": "launch",
+            "mainClass": "Loops.PATTERNS.FunctionExample",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Function",
+            "request": "launch",
+            "mainClass": "Loops.PATTERNS.Functions.Function",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "PatternHalfPyramid",
+            "request": "launch",
+            "mainClass": "Loops.PATTERNS.PatternHalfPyramid",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "ReverseHalfPyramid",
+            "request": "launch",
+            "mainClass": "Loops.PATTERNS.ReverseHalfPyramid",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "CaseCheck",
+            "request": "launch",
+            "mainClass": "CaseCheck",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "CountsNums",
+            "request": "launch",
+            "mainClass": "CountsNums",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Expression",
+            "request": "launch",
+            "mainClass": "Expression",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Fibbo",
+            "request": "launch",
+            "mainClass": "Fibbo",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "ForLoops",
+            "request": "launch",
+            "mainClass": "ForLoops",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "GUI",
+            "request": "launch",
+            "mainClass": "GUI",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "Loops.DoWhile",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile1",
+            "request": "launch",
+            "mainClass": "Loops.DoWhile1",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "ForExample",
+            "request": "launch",
+            "mainClass": "Loops.ForExample",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork",
+            "request": "launch",
+            "mainClass": "Loops.HomeWork",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Loops.Loop",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "LoopFactorial",
+            "request": "launch",
+            "mainClass": "Loops.LoopFactorial",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "LoopHomeWork",
+            "request": "launch",
+            "mainClass": "Loops.LoopHomeWork",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "LoopPrime",
+            "request": "launch",
+            "mainClass": "Loops.LoopPrime",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumber",
+            "request": "launch",
+            "mainClass": "Loops.NaturalNumber",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "RectanglePattern",
+            "request": "launch",
+            "mainClass": "Loops.PATTERNS.RectanglePattern",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "Loops.While",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "LoopsQuestion",
+            "request": "launch",
+            "mainClass": "LoopsQuestion",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Random",
+            "request": "launch",
+            "mainClass": "Random",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Read",
+            "request": "launch",
+            "mainClass": "Read",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Rose",
+            "request": "launch",
+            "mainClass": "Rose",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "ScannerClass",
+            "request": "launch",
+            "mainClass": "ScannerClass",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "SumNumbers",
+            "request": "launch",
+            "mainClass": "SumNumbers",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "SwapTwoVariable",
+            "request": "launch",
+            "mainClass": "SwapTwoVariable",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "VariableExamole",
+            "request": "launch",
+            "mainClass": "VariableExamole",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Condition",
+            "request": "launch",
+            "mainClass": "conditionals.Condition",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "conditionals.Example",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Example2",
+            "request": "launch",
+            "mainClass": "conditionals.Example2",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Example3",
+            "request": "launch",
+            "mainClass": "conditionals.Example3",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Example4",
+            "request": "launch",
+            "mainClass": "conditionals.Example4",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "conditionals.Switch",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "SwitchExample",
+            "request": "launch",
+            "mainClass": "conditionals.SwitchExample",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "question",
+            "request": "launch",
+            "mainClass": "question",
+            "projectName": "My java folder_81fdce3b"
+        },
+        {
+            "type": "java",
+            "name": "sc",
+            "request": "launch",
+            "mainClass": "sc",
+            "projectName": "My java folder_81fdce3b"
+        }
+    ]
+}
